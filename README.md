@@ -1,5 +1,5 @@
 ### Hi Guys 👋
-- 🌱 I’m currently learning ( Git and GitHub )
+- 🌱 I’m currently learning (Git and GitHub)
 <!--
 **AbdurrezzakYounso/AbdurrezzakYounso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
