@@ -1,6 +1,9 @@
-### Hi Guys 👋
-- 🌱 I’m currently learning ( Python )
-- 🔭 I’m currently working on studying **python**,**git** and **github**
+### Hello Dear Freinds 👋✨
+I am Abdurrezzak, a new student in programming. The motive that made me choose this field is that I have a passion for technology and programming, and I also plan to study software engineering in the future.
+
+Now I am learning the **Python** programming language, and also learning about **Git** and **GitHub**.
+
+Wish me luck guys, thank you all ❤✨
 <!--
 **AbdurrezzakYounso/AbdurrezzakYounso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
