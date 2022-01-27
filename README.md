@@ -4,6 +4,8 @@ I am Abdurrezzak, a new student in programming. The motive that made me choose t
 Now I am learning the **Python** programming language, and also learning about **Git** and **GitHub**.
 
 Wish me luck guys, thank you all ❤✨
+
+👨‍💻📓
 <!--
 **AbdurrezzakYounso/AbdurrezzakYounso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
