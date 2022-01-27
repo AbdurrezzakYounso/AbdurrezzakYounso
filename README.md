@@ -1,5 +1,6 @@
 ### Hi Guys 👋
 - 🌱 I’m currently learning ( Python )
+- 🔭 I’m currently working on studying **python**,**git** and **github**
 <!--
 **AbdurrezzakYounso/AbdurrezzakYounso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
