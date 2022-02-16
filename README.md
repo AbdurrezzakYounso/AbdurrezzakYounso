@@ -1,7 +1,7 @@
 ### Hello Dear Friends  👋✨
 I am Abdurrezzak, a new student in programming. The motive that made me choose this field is that I have a passion for technology and programming, and I also plan to study software engineering in the future.
 
-Now I am learning the **Python** programming language, and also learning about **Git** and **GitHub**.
+Now I am learning the **Front-End** development, and also learning about **Git** and **GitHub**.
 
 Wish me luck guys, thank you all ❤✨
 
